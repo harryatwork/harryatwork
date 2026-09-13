@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🏢 **Senior Engineer at Deloitte India** — designing .NET + Azure solutions and AI integrations at enterprise scale
+- 🏢 **Solutions Arch at Deloitte India** — designing .NET + Azure solutions and AI integrations at enterprise scale
 - 🤖 **AI automation builder** — turning repetitive workflows into Python scripts (see: [visa-job-hunter](https://github.com/harryatwork/visa-job-hunter))
 - 🌐 **Full-stack across the board** — PHP, Node.js, React Native, Unity VR — I build whatever the problem calls for
 - 🌍 **Targeting overseas roles** in UK / EU — and yes, I built a scraper to automate that search
